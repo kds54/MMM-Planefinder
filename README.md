@@ -6,10 +6,14 @@ A MagicMirror to display over head aircraft.
 Download the planefinder software and install it following the instructions at https://forum.planefinder.net/threads/raspberry-pi-b-zero-rpi2-rpi3-rpi4-installation-instructions-for-raspbian-dump1090-data-feeder.241/
 
 I implemented this MagicMirror module on a separate Raspberry Pi 4.  Clone the three files above to a folder at ~/MagicMirror/modules/MMM-Planefinder.
-Run npm  install
-Run nom  install request
 
-Configure your module as below substituting the values as needed:
+Navigate to ~/MagicMirror/modules/MMM-Planefinder and run the following:
+```
+npm  install
+npm install request
+```
+
+Configure your module as below in the config.js file substituting the values as needed:
 ```
 //MMM-Planefinder
       {
