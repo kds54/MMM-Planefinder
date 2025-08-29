@@ -54,7 +54,7 @@ Module.register("MMM-Planefinder", {
         // Add "Flights Overhead" header
         var title = document.createElement("div");
         title.className = "planefinder-title";
-        title.innerHTML = "Takeoffs are optinal.  Landings are mandatory.";
+        title.innerHTML = "Aircraft Overhead";
         wrapper.appendChild(title);
 
         if (!this.loaded) {
