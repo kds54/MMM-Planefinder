@@ -6,7 +6,6 @@
 
 .planefinder-separator {
     border: none;
-    //border-top: 2px solid #4285f4;
     border-top: 1px solid #666;
     margin: 0 0 30px 0;
     width: 100%;
@@ -48,21 +47,9 @@
     text-align: center;
 }
 
-//.planefinder-row:hover {
-    //background-color: rgba(255, 255, 255, 0.1);
-//}
-
-//.planefinder-row:hover + .planefinder-decoded-row {
-    //background-color: rgba(255, 255, 255, 0.1);
-//}
-
 .planefinder-decoded-row {
     transition: background-color 0.3s ease;
 }
-
-//.planefinder-decoded-row:nth-of-type(4n) {
-    //background-color: rgba(255, 255, 255, 0.05);
-//}
 
 .planefinder-decoded-cell {
     padding: 4px 8px 8px 8px;
