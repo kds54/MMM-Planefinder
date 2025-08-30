@@ -12,7 +12,7 @@ The Raspberry Pi with the receiver "looks" for aircraft overhead and exports the
 
 2. Create an free account and register the Raspberry Pi receiver at the planefinder.net website.
 
-3. On the Raspberry Pi, navigate to:
+3. On the Raspberry Pithat is running ***MagicMirror***, navigate to:
 
 ```
 bash
