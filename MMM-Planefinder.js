@@ -5,7 +5,7 @@
 Module.register("MMM-Planefinder", {
     // Default module config
     defaults: {
-        planefinderIP: "192.168.1.146",
+        planefinderIP: "192.168.1.1",
         shareCode: "", // Your share code if needed
         updateInterval: 30000, // 30 seconds
         maxFlights: 10,
@@ -53,7 +53,7 @@ Module.register("MMM-Planefinder", {
         // Add "Flights Overhead" header
         var title = document.createElement("div");
         title.className = "planefinder-title";
-        title.innerHTML = "Takeoffs are optional.<br>Landings are mandatory.";
+        title.innerHTML = "Flights Overhead";
         wrapper.appendChild(title);
 
         if (!this.loaded) {
