@@ -1,0 +1,17 @@
+
+//MMM-Planefinder
+			{
+    				module: "MMM-Planefinder",
+    				position: "top_right", // or any other position you prefer
+    				config: {
+        				planefinderIP: "192.168.1.146", // Your Planefinder Pi's IP
+        				shareCode: "", // Add your share code if needed
+        				updateInterval: 30000, // Update every 30 seconds
+        				maxFlights: 10, // Maximum number of flights to display
+        				//headerColor: "#4285f4", // Header background color
+					headerColor: "#0F84E0", // Header background color
+        				animationSpeed: 1000, // DOM update animation speed
+        				retryDelay: 2500 // Delay before retrying failed requests
+
+				}
+			},
