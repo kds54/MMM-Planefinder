@@ -1,0 +1,149 @@
+/* MMM-Planefinder.css */
+
+.planefinder-wrapper {
+    font-family: 'Roboto', sans-serif;
+}
+
+.planefinder-separator {
+    border: none;
+    //border-top: 2px solid #4285f4;
+    border-top: 1px solid #666;
+    margin: 0 0 30px 0;
+    width: 100%;
+}
+
+.planefinder-title {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.planefinder-table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 14px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.planefinder-header {
+    padding: 10px 8px;
+    //text-align: left;
+    text-align: center;
+    font-weight: bold;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: none;
+}
+
+.planefinder-row {
+    transition: background-color 0.3s ease;
+    background-color: rgba(255, 255, 255, 0.05);
+    text-align: center;
+}
+
+//.planefinder-row:hover {
+    //background-color: rgba(255, 255, 255, 0.1);
+//}
+
+//.planefinder-row:hover + .planefinder-decoded-row {
+    //background-color: rgba(255, 255, 255, 0.1);
+//}
+
+.planefinder-decoded-row {
+    transition: background-color 0.3s ease;
+}
+
+//.planefinder-decoded-row:nth-of-type(4n) {
+    //background-color: rgba(255, 255, 255, 0.05);
+//}
+
+.planefinder-decoded-cell {
+    padding: 4px 8px 8px 8px;
+    border: none;
+    color: #aaa;
+    font-size: 12px;
+}
+
+.planefinder-decoded-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.planefinder-decoded-airline {
+    text-align: left;
+    font-style: italic;
+    flex: 1;
+}
+
+.planefinder-decoded-airports {
+    text-align: right;
+    font-style: italic;
+    flex: 1;
+}
+
+.planefinder-cell {
+    padding: 8px;
+    border: none;
+    color: #fff;
+    font-size: 12px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.planefinder-cell:first-child {
+    font-weight: bold;
+    color: #4285f4;
+}
+
+.planefinder-cell:last-child {
+    //text-align: right;
+    text-align: center;
+}
+
+/* Loading and error states */
+.planefinder-wrapper .dimmed {
+    color: #666;
+    font-style: italic;
+    text-align: center;
+    padding: 20px;
+}
+
+.planefinder-decoded-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 2px 0;
+}
+
+.planefinder-decoded-airline {
+    flex: 1;
+    text-align: left;
+    font-size: 0.8em;
+    color: #666;
+    font-style: italic;
+}
+
+.planefinder-decoded-aircraft {
+    flex: 1;
+    text-align: center;
+    font-size: 0.8em;
+    color: #666;
+    font-style: italic;
+}
+
+.planefinder-decoded-airports {
+    flex: 1;
+    text-align: right;
+    font-size: 0.8em;
+    color: #666;
+    font-style: italic;
+}
