@@ -1,4 +1,5 @@
 # MMM-Planefinder
+![IMG_1476](https://github.com/user-attachments/assets/cb073ed1-4fd0-4778-ad85-e9fe262f1698)
 
 
 A MagicMirror to display over head aircraft without any API calls.
