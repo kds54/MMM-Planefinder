@@ -1,5 +1,5 @@
 # MMM-Planefinder
-![Screenshot 2025-08-30 at 4 07 07 PM](https://github.com/user-attachments/assets/265be5fd-9ae0-43ef-90d3-d909107dec25)
+
 
 A MagicMirror to display over head aircraft without any API calls.
 
@@ -54,4 +54,4 @@ npm install request
 				}
 			}
 ```
-7. Edit the ***airlines.csv*** and ***airports.csv*** files in the module folder to display the decoded names of the airlines and airports close to your loation.
+7. Edit the ***airlines.csv*** and ***airports.csv*** and ***aircraft.csv*** files in the module folder to display the decoded names of the airlines and airports close to your loation.
