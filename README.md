@@ -1,4 +1,7 @@
 # MMM-Planefinder
+
+***The file  was changed on 2 Sept 2025 to add a heading column as well as a decoded aircraft field on the  second line.***
+
 ![IMG_1476](https://github.com/user-attachments/assets/cb073ed1-4fd0-4778-ad85-e9fe262f1698)
 
 
