@@ -5,7 +5,6 @@
     				position: "top_right", // or any other position you prefer
     				config: {
         				planefinderIP: "192.168.1.1", // Your Planefinder Pi's IP
-        				shareCode: "", // Add your share code if needed
         				updateInterval: 30000, // Update every 30 seconds
         				maxFlights: 10, // Maximum number of flights to display
 					    headerColor: "#0F84E0", // Header background color
