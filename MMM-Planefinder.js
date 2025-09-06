@@ -1,5 +1,9 @@
 /* MagicMirror Module: MMM-Planefinder
  * Displays flight data from Planefinder
+ *
+ *
+ * This module requires a Raspberry Pi running
+ * the software from planefinder.net
  */
 
 Module.register("MMM-Planefinder", {
