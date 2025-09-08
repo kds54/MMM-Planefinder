@@ -42,21 +42,21 @@ ROA,Roanoke
 CVG,Cincinnati
 CLE,Cleveland
 PIT,Pittsburgh
-MKE,Milwaukee
+MKE,Milwaukee WI
 IND,Indianapolis
-CMH,Columbus
-MEM,Memphis
-BNA,Nashville
-JAX,Jacksonville
-RSW,Fort Myers
-PBI,West Palm Beach
-SAV,Savannah
-CHS,Charleston
-RIC,Richmond
-ORF,Norfolk
-GSO,Greensboro
-CAE,Columbia
-MYR,Myrtle Beach
+CMH,Columbus OH
+MEM,Memphis TN
+BNA,Nashville TN
+JAX,Jacksonville FL
+RSW,Fort Myers FL
+PBI,West Palm Beach FL
+SAV,Savannah GA
+CHS,Charleston WV
+RIC,Richmond VA
+ORF,Norfolk VA
+GSO,Greensboro NC
+CAE,Columbia SC
+MYR,Myrtle Beach SC
 LHR,London Heathrow
 LGW,London Gatwick
 CDG,Paris Charles de Gaulle
@@ -108,93 +108,93 @@ SCL,Santiago
 LIM,Lima
 MEX,Mexico City
 FWA,Fort Wayne
-AVP,Wilkes-Barre/Scranton
-MKE,Milwaukee
-RIC,Richmond
+AVP,Wilkes-Barre/Scranton PA
+MKE,Milwaukee WI
+RIC,Richmond VA
 OSU,Ohio State University
-BUF,Buffalo
-CLE,Cleveland
-CMH,Columbus
-CVG,Cincinnati
+BUF,Buffalo NY
+CLE,Cleveland OH
+CMH,Columbus OH
+CVG,Cincinnati OH
 SCE,State Coll Pennsylvania
 FCA,Glacier Park Montana
-JAC,Jackson Hole
-MDT,Harrisburg
-ABE,Lehigh Valley
-DSM,Des Moines
-GSH,Goshen
-EKM,Elkhart
-SBN,South Bend
-IND,Indianapolis
-RSW,Fort Myers
-PGD,Punta Gorda
-PIE,Saint Petersburg
-MCO,Orlando
-SRQ,Sarasota
-PIT,Pittsburgh
-ROA,Roanoke
-BZN,Bozeman
-RAP,Rapid City
-ROC,Rochester
-OMA,Omaha
-ERI,Erie
-HPN,Westchester County
-PWK,Chicago Executive
-OAK,Oakland
-DAY,Dayton
-PBI,Palm Beach
-MQT,Marquette
+JAC,Jackson Hole WY
+MDT,Harrisburg PA
+ABE,Lehigh Valley PA
+DSM,Des Moines IA
+GSH,Goshen IN
+EKM,Elkhart IN
+SBN,South Bend IN
+IND,Indianapolis IN
+RSW,Fort Myers FL
+PGD,Punta Gorda FL
+PIE,Saint Petersburg FL
+MCO,Orlando FL
+SRQ,Sarasota FL
+PIT,Pittsburgh PA
+ROA,Roanoke VA
+BZN,Bozeman MT
+RAP,Rapid City SD
+ROC,Rochester NY
+OMA,Omaha NE
+ERI,Erie PA
+HPN,Westchester County NY
+PWK,Chicago Executive 
+OAK,Oakland CA
+DAY,Dayton OH
+PBI,Palm Beach FL
+MQT,Marquette MI
 BLM,Monmouth NJ
 UNV,State College PA
-LAF,Purdue University
-BMG,Bloomington
-SDF,Louisville
+LAF,Purdue University IN
+BMG,Bloomington IN
+SDF,Louisville KY
 FOK,Westhampton Beach NY
-SAF,Santa Fe
-ALB,Albany
+SAF,Santa Fe NM
+ALB,Albany NY
 DAL,Dallas Love Field
 VPZ,Porter County IN
-PVD,Providence
+PVD,Providence RI
 YTZ,Toronto
 ALO,Waterloo IA
 AGC,Allegheny Co PA
-COS,Colorado Springs
+COS,Colorado Springs CO
 ALS,Alamosa CO
 YIP,Ypsilanti MI
 SLK,Adirondak Regional NY
-GRR,Grand Rapids
-COE,Coeur D'Alene
+GRR,Grand Rapids MI
+COE,Coeur D'Alene ID
 HSH,Henderson NV
 YHM,Hamilton Ont
 BDL,Hartford CT
-SFB,Orlando/Sanford
+SFB,Orlando/Sanford FL
 MGW,Morgantown WV
-LGB,Long Beach
+LGB,Long Beach CA
 PWM,Portland ME
-TEB,Teterboro
-RFD,Rockford
-ILG,Wilmington
-SJC,San Jose
+TEB,Teterboro NJ
+RFD,Rockford IL
+ILG,Wilmington DE
+SJC,San Jose CA
 MIV,Millville NJ
 APA,Centennial CO
 SNA,Orange Co CA
 LBE,Latrobe PA
 MMU,Morristown NJ
-MDT,Harrisburg
-CRW,Charleston
+MDT,Harrisburg PA
+CRW,Charleston WV
 SNA,Orange Co CA
-ABQ,Albuquerque
-HUQ,Moffet Field
-PNE,Northeast Philadelphia
+ABQ,Albuquerque NM
+HUQ,Moffet Field CA
+PNE,Northeast Philadelphia PA
 BED,Bedford MA
-BUR,Burbank
+BUR,Burbank CA
 GYY,Gary/Chicago
-GSH,Goshen
+GSH,Goshen IN
 ART,Watertown NY
 BJC,Bloomfield CO
 PTK,Oakland Co MI
 EGE,Eagle County CO
-ANC,Anchorage
+ANC,Anchorage AK
 BHM,Birmingham AL
 LEB,Lebanon NH
 ASE,Aspen CO
@@ -206,7 +206,7 @@ N66,Oneonta NY
 AMA,Amarillo TX
 RST,Rochester MN
 CKB,Clarksburg WV
-CVG,Cincinnati
+CVG,Cincinnati OH
 GVG,Geneva Switzerland
 JST,Johnstown PA
 CAK,Akron OH
@@ -215,13 +215,13 @@ YQT,Thunder Bay Ontario
 AZA,Mesa AZ
 MRB,Martinsburg WV
 CNC,Chariton IA
-TUS,Tucson
-ELP,El Paso
-TLH,Tallahasee
+TUS,Tucson AZ
+ELP,El Paso TX
+TLH,Tallahasee FL
 MIE,Muncie IN
 ACK,Nantucket MA
 HYA,Hyannis MA
-MKC,Kansas City
+MKC,Kansas City MO
 UES,Waukesha WI
 DPA,DuPage/Chicago
 GTI,Rugen Germany
@@ -249,4 +249,4 @@ SAA,Saratoga WY
 BED,Bedford MA
 PSM,Portsmouth NH
 KOA,Kona HI
-NEW,New Orleans
+NEW,New Orleans LA
