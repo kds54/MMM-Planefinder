@@ -107,7 +107,7 @@ EZE,Buenos Aires
 SCL,Santiago
 LIM,Lima
 MEX,Mexico City
-FWA,Fort Wayne
+FWA,Fort Wayne IN
 AVP,Wilkes-Barre/Scranton PA
 MKE,Milwaukee WI
 RIC,Richmond VA
@@ -117,7 +117,7 @@ CLE,Cleveland OH
 CMH,Columbus OH
 CVG,Cincinnati OH
 SCE,State Coll Pennsylvania
-FCA,Glacier Park Montana
+FCA,Glacier Park MT
 JAC,Jackson Hole WY
 MDT,Harrisburg PA
 ABE,Lehigh Valley PA
@@ -263,3 +263,4 @@ SCF,Scottsdale AZ
 MHT,Manchester-Boston MA
 BEH,Benton Harbor MI
 SYR,Syracuse NY
+CHS,Charleston SC
